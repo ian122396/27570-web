@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Aurora Dynamics",
+    "tier": "Platinum",
+    "website": "https://example.com/aurora",
+    "logo": "/gallery/2025-02-aurora.jpg",
+    "statement_zh": "提供 DECODE 赛季底盘碳纤板及加工窗口。",
+    "statement_en": "Provides CFRP plates and machining windows for DECODE."
+  },
+  {
+    "name": "NOVA Robotics Lab",
+    "tier": "Gold",
+    "website": "https://example.com/novalab",
+    "logo": "/gallery/2025-03-nova.jpg",
+    "statement_zh": "开放周末实验室并赞助传感器套件。",
+    "statement_en": "Opens weekend lab hours and sponsors sensor kits."
+  },
+  {
+    "name": "BitOcean Cloud",
+    "tier": "Silver",
+    "website": "https://example.com/bitocean",
+    "logo": "/gallery/2025-04-bitocean.jpg",
+    "statement_zh": "提供算力与 CI / CD 资源，支持远程调试。",
+    "statement_en": "Donates cloud compute for CI/CD and remote debugging."
+  },
+  {
+    "name": "MakerTown",
+    "tier": "Bronze",
+    "website": "https://example.com/makertown",
+    "logo": "/gallery/2025-05-makertown.jpg",
+    "statement_zh": "协助社区科普活动与青少年工作坊。",
+    "statement_en": "Supports outreach workshops with tools and mentors."
+  }
+]

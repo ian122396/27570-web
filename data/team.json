@@ -1,0 +1,69 @@
+{
+  "teamNumber": "27570",
+  "teamName": "BEAR",
+  "tagline_zh": "自由探索，勇敢实验，成为更好的自己。",
+  "tagline_en": "Explore freely, prototype boldly, grow together.",
+  "dutyRoster": "@links.schedule.sheet",
+  "members": [
+    {
+      "name": "林沐阳",
+      "role": "队长 / 机械总监",
+      "role_en": "Captain / Mechanical Lead",
+      "focus": "底盘、关节结构、制造流程",
+      "focus_en": "Chassis, joints, manufacturing",
+      "avatar": "/gallery/2025-07-chassis-lin.jpg"
+    },
+    {
+      "name": "陈思远",
+      "role": "策略 / 驱动",
+      "role_en": "Strategy / Driver",
+      "focus": "驱动员培训、赛场数据采集",
+      "focus_en": "Drive training & data",
+      "avatar": "/gallery/2025-07-driver-chen.jpg"
+    },
+    {
+      "name": "唐一诺",
+      "role": "电控 / 算法",
+      "role_en": "Electrical / Algorithms",
+      "focus": "电控面板、路标识别、自动化测试",
+      "focus_en": "Electronics, tag detection, testing",
+      "avatar": "/gallery/2025-08-electronics-tang.jpg"
+    },
+    {
+      "name": "王星霖",
+      "role": "视觉 / 本体定位",
+      "role_en": "Vision / Localization",
+      "focus": "AprilTag、三维定位管线",
+      "focus_en": "AprilTag + localization",
+      "avatar": "/gallery/2025-08-vision-wang.jpg"
+    },
+    {
+      "name": "赵若溪",
+      "role": "品牌 / 运营",
+      "role_en": "Brand / Operations",
+      "focus": "合作伙伴沟通、媒体内容",
+      "focus_en": "Partnership & media",
+      "avatar": "/gallery/2025-09-brand-zhao.jpg"
+    },
+    {
+      "name": "郭隽",
+      "role": "创新 / CAD",
+      "role_en": "Innovation / CAD",
+      "focus": "快速原型、结构仿真",
+      "focus_en": "Rapid prototyping",
+      "avatar": "/gallery/2025-09-cad-guo.jpg"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "李卓",
+      "focus": "项目管理 / 工程日志",
+      "focus_en": "PM / Engineering notebook"
+    },
+    {
+      "name": "Sara Lee",
+      "focus": "评审答辩 / 英文沟通",
+      "focus_en": "Judging / English coaching"
+    }
+  ]
+}

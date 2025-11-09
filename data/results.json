@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2025-cnchq",
+    "season": "2025-2026",
+    "eventCode": "CNCHQ",
+    "name_zh": "中国 重庆 #1 资格赛",
+    "name_en": "China FTC Chongqing Qualifier #1",
+    "location": "重庆·中国",
+    "dateRange": "2025-11-15 ~ 2025-11-16",
+    "startDate": "2025-11-15",
+    "endDate": "2025-11-16",
+    "status": "upcoming",
+    "notes_zh": "保持每周合练 2 次，机械与算法双迭代。",
+    "notes_en": "Running twice-a-week scrimmages to align hardware and code.",
+    "links": {
+      "event": "@links.first.cnchq",
+      "qualifications": "@links.first.cnchq.qual",
+      "scout": "@links.ftcscout.cnchq"
+    }
+  },
+  {
+    "id": "2025-region",
+    "season": "2025-2026",
+    "name_zh": "中国赛区赛历",
+    "name_en": "China Regional Schedule",
+    "status": "upcoming",
+    "links": {
+      "event": "@links.first.cn.region"
+    },
+    "notes_zh": "持续关注华中与西南站点。",
+    "notes_en": "Tracking additional regional stops for travel readiness."
+  },
+  {
+    "id": "2024-itd",
+    "season": "2024-2025",
+    "eventCode": "INTO-THE-DEEP",
+    "name_zh": "INTO THE DEEP 赛季总览",
+    "name_en": "INTO THE DEEP Season Overview",
+    "dateRange": "2024-09 ~ 2025-04",
+    "status": "finished",
+    "rank": "晋级省赛 · Inspire Award Finalist",
+    "awards": [
+      "Think Award (2nd)",
+      "Motivate Award"
+    ],
+    "links": {
+      "archive": "@links.archive.itd",
+      "toa": "@links.toa.home"
+    }
+  }
+]
