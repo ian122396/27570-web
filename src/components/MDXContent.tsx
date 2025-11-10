@@ -17,8 +17,10 @@ export function MDXContent({ source }: MDXContentProps) {
           h2: ({ node, ...props }) => (
             <h3 style={{ marginTop: '1.5rem' }} {...props} />
           ),
-          a: ({ node, ...props }) => (
-            <a {...props} target="_blank" rel="noreferrer" style={{ color: 'var(--brand)' }} />
+          a: ({ node, children, ...props }) => (
+            <a {...props} target="_blank" rel="noreferrer" style={{ color: 'var(--brand)' }}>
+              {children}
+            </a>
           ),
           table: ({ node, ...props }) => (
             <div style={{ overflowX: 'auto' }}>

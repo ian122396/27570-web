@@ -13,7 +13,6 @@ export function resolveLink(value?: string) {
 
 export function hydrateLinks(markdown: string) {
   return markdown.replace(/@links\.([a-z0-9._-]+)/gi, (_, key: string) => {
-    const url = linkMap[key] ?? `https://example.com/${key}`
-    return `<${url}>`
+    return linkMap[key] ?? `https://example.com/${key}`
   })
 }

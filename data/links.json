@@ -19,7 +19,7 @@
   "team.github": "https://github.com/ftc27570-bear",
   "sponsor.form": "https://forms.gle/ftc27570-sponsor",
   "apply.form": "https://forms.gle/ftc27570-join",
-  "handbook.pdf": "https://example.com/handbook.pdf",
-  "portfolio.pdf": "data/27570portfolio China Championship.pdf",
+  "handbook.pdf": "/downloads/27570portfolio-China-Championship.pdf",
+  "portfolio.pdf": "/downloads/27570portfolio-China-Championship.pdf",
   "schedule.sheet": "https://example.com/ftc27570-duty-schedule.xlsx"
 }
