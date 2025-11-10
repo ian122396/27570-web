@@ -1,19 +1,19 @@
-# ÖØÇì #1 ×Ê¸ñÈü£¨CNCHQ£©
+ï»¿# é‡åº† #1 èµ„æ ¼èµ›ï¼ˆCNCHQï¼‰
 
-- **Ê±¼ä / Date**£º2025-11-15 ~ 2025-11-16£¨µ±µØÊ±¼ä£©
-- **µØµã / Venue**£ºÖØÇì¹ú¼Ê²©ÀÀÖÐÐÄ£¨´ý¹Ù·½È·ÈÏ£©
-- **±¨Ãû×´Ì¬ / Status**£ºÎ´¿ªÊ¼£¨upcoming£©
-- **ÍâÁ´ / Links**£º
-  - FIRST Event£º@links.first.cnchq
-  - Qualification ÅÅ³Ì£º@links.first.cnchq.qual
-  - FTCScout Êý¾Ý£º@links.ftcscout.cnchq
+- **æ—¶é—´ / Date**ï¼š2025-11-15 ~ 2025-11-16ï¼ˆå½“åœ°æ—¶é—´ï¼‰
+- **åœ°ç‚¹ / Venue**ï¼šé‡åº†å›½é™…åšè§ˆä¸­å¿ƒï¼ˆå¾…å®˜æ–¹ç¡®è®¤ï¼‰
+- **æŠ¥åçŠ¶æ€ / Status**ï¼šæœªå¼€å§‹ï¼ˆupcomingï¼‰
+- **å¤–é“¾ / Links**ï¼š
+  - FIRST Eventï¼š@links.first.cnchq
+  - Qualification æŽ’ç¨‹ï¼š@links.first.cnchq.qual
+  - FTCScout æ•°æ®ï¼š@links.ftcscout.cnchq
 
-## ÈüÇ°¼Æ»® / Pre-Event Plan
-1. Íê³É 4 ÂÖ×Ô¶¯Â·¾¶ÆÀÉó£¬È·±£ 3 ÌõÆô¶¯ÏßÂ·¡£
-2. »úÐµ¿ìËÙ¼ì²éµ¥£ºÃ¿ÖÜÒ»´Î×°³µÄ£Äâ£¬¹Ø×¢½ô¹Ì¼þ¡£
-3. ¹¤³ÌÈÕÖ¾£ºÔÚ 11 ÔÂµÚÒ»ÖÜÇ°Íê³ÉÖÐÓ¢ÎÄ°æÐ£¶Ô¡£
+## èµ›å‰è®¡åˆ’ / Pre-Event Plan
+1. å®Œæˆ 4 è½®è‡ªåŠ¨è·¯å¾„è¯„å®¡ï¼Œç¡®ä¿ 3 æ¡å¯åŠ¨çº¿è·¯ã€‚
+2. æœºæ¢°å¿«é€Ÿæ£€æŸ¥å•ï¼šæ¯å‘¨ä¸€æ¬¡è£…è½¦æ¨¡æ‹Ÿï¼Œå…³æ³¨ç´§å›ºä»¶ã€‚
+3. å·¥ç¨‹æ—¥å¿—ï¼šåœ¨ 11 æœˆç¬¬ä¸€å‘¨å‰å®Œæˆä¸­è‹±æ–‡ç‰ˆæ ¡å¯¹ã€‚
 
-## Èüºó¸´ÅÌ / Post Event Notes£¨Õ¼Î»£©
-- ÅÅÃû¡¢½ú¼¶¡¢½±Ïî£ºÈüºóÐ´Èë data/results.json
-- ¶ÔÕóÓë²ßÂÔ£º²¹³ä¹Ø¼ü³¡´ÎÂ¼ÏñÁ´½Ó
-- ¸´ÅÌÒªµã£º¸ù¾Ý²ÃÅÐÓëÆÀÉó·´À¡¸üÐÂ
+## èµ›åŽå¤ç›˜ / Post Event Notesï¼ˆå ä½ï¼‰
+- æŽ’åã€æ™‹çº§ã€å¥–é¡¹ï¼šèµ›åŽå†™å…¥ data/results.json
+- å¯¹é˜µä¸Žç­–ç•¥ï¼šè¡¥å……å…³é”®åœºæ¬¡å½•åƒé“¾æŽ¥
+- å¤ç›˜è¦ç‚¹ï¼šæ ¹æ®è£åˆ¤ä¸Žè¯„å®¡åé¦ˆæ›´æ–°

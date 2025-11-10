@@ -1,13 +1,13 @@
-# Robot Architecture ¡¤ 27570 BEAR DECODE Platform
+ï»¿# Robot Architecture Â· 27570 BEAR DECODE Platform
 
 ## Mechanical
-²ÉÓÃ¶Ô³ÆÄ£¿é»¯µ×ÅÌ + Á½¼¶²îËÙ»¬¹ì¡£Çý¶¯ÏµÍ³¼æÈÝ¸ß¡¢µÍÎ»µÄ×¥È¡±Û£¬·½±ãÔÚ 90 ·ÖÖÓÄÚÍê³ÉÎ¬»¤Óë¸ü»»¡£
+é‡‡ç”¨å¯¹ç§°æ¨¡å—åŒ–åº•ç›˜ + ä¸¤çº§å·®é€Ÿæ»‘è½¨ã€‚é©±åŠ¨ç³»ç»Ÿå…¼å®¹é«˜ã€ä½Žä½çš„æŠ“å–è‡‚ï¼Œæ–¹ä¾¿åœ¨ 90 åˆ†é’Ÿå†…å®Œæˆç»´æŠ¤ä¸Žæ›´æ¢ã€‚
 
 ## Electrical
-Ë«²ãÅäµç°å + ¿ì²ðÊ½ÏßÊø²Û¡£Ö÷¿Ø²ÉÓÃ REV Control Hub£¬¸¨ÒÔÀ©Õ¹°å½øÐÐ GPIO Óë´«¸ÐÆ÷ÈßÓàÉè¼Æ¡£
+åŒå±‚é…ç”µæ¿ + å¿«æ‹†å¼çº¿æŸæ§½ã€‚ä¸»æŽ§é‡‡ç”¨ REV Control Hubï¼Œè¾…ä»¥æ‰©å±•æ¿è¿›è¡Œ GPIO ä¸Žä¼ æ„Ÿå™¨å†—ä½™è®¾è®¡ã€‚
 
 ## Software
-»ùÓÚ Road Runner + ×ÔÑÐÂ·¾¶Éú³ÉÆ÷£¬½áºÏ×´Ì¬»ú¹ÜÀí²»Í¬ÈÎÎñ£¨Ñ²Ïß¡¢×¥È¡¡¢ËÍ·Ö£©¡£ËùÓÐÅäÖÃÍ¨¹ý JSON ±íÎ¬»¤£¬¿ÉÔÚ Pit ¿ìËÙÇÐ»»¡£
+åŸºäºŽ Road Runner + è‡ªç ”è·¯å¾„ç”Ÿæˆå™¨ï¼Œç»“åˆçŠ¶æ€æœºç®¡ç†ä¸åŒä»»åŠ¡ï¼ˆå·¡çº¿ã€æŠ“å–ã€é€åˆ†ï¼‰ã€‚æ‰€æœ‰é…ç½®é€šè¿‡ JSON è¡¨ç»´æŠ¤ï¼Œå¯åœ¨ Pit å¿«é€Ÿåˆ‡æ¢ã€‚
 
 ## Vision
-Ç°ÖÃÓë²àÖÃ AprilTag ÉãÏñÍ· + Éî¶È¹À¼ÆÄ£ÐÍ£¬ÈÚºÏ IMU/Àï³Ì¼ÆÍê³ÉÈ«³¡¶¨Î»¡£Ìá¹©ÐéÄâ·ÂÕæÊý¾Ý±ãÓÚµ÷²Î¡£
+å‰ç½®ä¸Žä¾§ç½® AprilTag æ‘„åƒå¤´ + æ·±åº¦ä¼°è®¡æ¨¡åž‹ï¼Œèžåˆ IMU/é‡Œç¨‹è®¡å®Œæˆå…¨åœºå®šä½ã€‚æä¾›è™šæ‹Ÿä»¿çœŸæ•°æ®ä¾¿äºŽè°ƒå‚ã€‚

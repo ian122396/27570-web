@@ -15,7 +15,7 @@ const updates: Array<{
       en: 'Registration locked for Chongqing Qualifier #1',
     },
     description: {
-      zh: '提交包含工程日志、评审资料与最新机器人技术文档的报名包。',
+      zh: '准备包含工程日志、评审资料与最新机器人技术文档的报名包。',
       en: 'Submitted the engineering portfolio, judging packet, and robot documentation.',
     },
     tag: {
@@ -106,8 +106,8 @@ export default function HomePage() {
       <Hero
         eyebrow="FTC 27570 BEAR"
         title={pick({
-          zh: '解码 2025-2026 DECODE 赛季',
-          en: 'Decoding DECODE 2025-2026',
+          zh: '2025-2026 DECODE 赛季',
+          en: 'DECODE 2025-2026',
         })}
         subtitle={heroSubtitle}
         actions={[
