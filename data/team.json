@@ -6,11 +6,11 @@
   "dutyRoster": "@links.schedule.sheet",
   "members": [
     {
-      "name": "林沐阳",
-      "role": "队长 / 机械总监",
-      "role_en": "Captain / Mechanical Lead",
-      "focus": "底盘、关节结构、制造流程",
-      "focus_en": "Chassis, joints, manufacturing",
+      "name": "杨梓皓",
+      "role": "队长",
+      "role_en": "Captain",
+      "focus": "底盘",
+      "focus_en": "Chassis",
       "avatar": "/gallery/2025-07-chassis-lin.jpg"
     },
     {

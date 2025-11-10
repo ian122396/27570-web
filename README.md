@@ -16,9 +16,9 @@
 ## 快速开始
 ```bash
 npm install        # 安装依赖
-npm run dev        # 本地开发，默认端口 5173
+npm run dev        # 本地开发，默认监听 0.0.0.0:5173（同局域网可访问）
 npm run build      # 产出 dist 静态文件
-npm run preview    # 预览 dist（本地验证）
+npm run preview    # 预览 dist（监听 0.0.0.0:4173）
 ```
 
 ## 目录速览
@@ -88,9 +88,9 @@ npm run preview    # 预览 dist（本地验证）
 ### Getting Started
 ```bash
 npm install
-npm run dev      # local dev server
+npm run dev      # local dev server (0.0.0.0:5173)
 npm run build    # generate static files
-npm run preview  # verify the dist folder locally
+npm run preview  # verify dist via 0.0.0.0:4173
 ```
 
 ### Content Management
