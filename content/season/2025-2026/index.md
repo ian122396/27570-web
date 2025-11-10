@@ -19,11 +19,10 @@
 7. 2025-11：赛前准备
 
 ## 子系统进展 / Subsystems
-- Mechanical：模块化抓取臂、两级差速滑轨，强化快拆能力
-- Electrical：集中布线 + 舱体化面板，开源配电图纸
-- Algorithms：联调自动路径、路径规划工具链、仿真板载测试
-- Vision：多相机 + AprilTag 融合定位，提供模拟数据集
+- Mechanical：锥齿轮同步带驱动底盘，浮动intake结构，自由俯仰shooting结构
+- Algorithms：Pedro Pathing + 自主编写底层程序
+- Vision：LimeLight + Logitech C270摄像头April Tags识别和辅助自动瞄准
 
 ## Events
-- 重庆 #1 资格赛（CNCHQ）2025-11-15 ~ 2025-11-16
+- Chongqing Qualification #1 2025-11-14 ~ 2025-11-16
 - 中国赛区赛历（持续更新）

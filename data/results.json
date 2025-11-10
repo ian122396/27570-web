@@ -1,13 +1,12 @@
 [
   {
-    "id": "2025-cnchq",
+    "id": "2025-Chongqing Qualification #1",
     "season": "2025-2026",
-    "eventCode": "CNCHQ",
     "name_zh": "中国 重庆 #1 资格赛",
     "name_en": "China FTC Chongqing Qualifier #1",
     "location": "重庆·中国",
-    "dateRange": "2025-11-15 ~ 2025-11-16",
-    "startDate": "2025-11-15",
+    "dateRange": "2025-11-14 ~ 2025-11-16",
+    "startDate": "2025-11-14",
     "endDate": "2025-11-16",
     "status": "upcoming",
     "notes_zh": "保持每周合练 2 次，机械与算法双迭代。",
@@ -38,10 +37,11 @@
     "name_en": "INTO THE DEEP Season Overview",
     "dateRange": "2024-09 ~ 2025-04",
     "status": "finished",
-    "rank": "晋级省赛 · Inspire Award Finalist",
+    "rank": "晋级国赛 · Inspire Award Finalist",
     "awards": [
       "Think Award (2nd)",
-      "Motivate Award"
+      "Design Award (1st)",
+      "Control Award (1st)"
     ],
     "links": {
       "archive": "@links.archive.itd",

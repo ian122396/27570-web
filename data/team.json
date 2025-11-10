@@ -14,56 +14,51 @@
       "avatar": "/gallery/2025-07-chassis-lin.jpg"
     },
     {
-      "name": "陈思远",
-      "role": "策略 / 驱动",
-      "role_en": "Strategy / Driver",
-      "focus": "驱动员培训、赛场数据采集",
-      "focus_en": "Drive training & data",
+      "name": "侯沐宸",
+      "role": "队长",
+      "role_en": "Captain",
+      "focus": "Shooting结构",
+      "focus_en": "Shooting part",
       "avatar": "/gallery/2025-07-driver-chen.jpg"
     },
     {
-      "name": "唐一诺",
-      "role": "电控 / 算法",
-      "role_en": "Electrical / Algorithms",
-      "focus": "电控面板、路标识别、自动化测试",
-      "focus_en": "Electronics, tag detection, testing",
+      "name": "蒋金成",
+      "role": "程序员",
+      "role_en": "Programmer",
+      "focus": "April Tags识别，视觉算法设计",
+      "focus_en": "April Tags，vison algorithm designing",
       "avatar": "/gallery/2025-08-electronics-tang.jpg"
     },
     {
-      "name": "王星霖",
-      "role": "视觉 / 本体定位",
-      "role_en": "Vision / Localization",
-      "focus": "AprilTag、三维定位管线",
-      "focus_en": "AprilTag + localization",
+      "name": "李牧洲",
+      "role": "程序员",
+      "role_en": "Programmer",
+      "focus": "手动，自动程序编写",
+      "focus_en": "TeleOp & Autonomous part coding",
       "avatar": "/gallery/2025-08-vision-wang.jpg"
     },
     {
-      "name": "赵若溪",
-      "role": "品牌 / 运营",
-      "role_en": "Brand / Operations",
-      "focus": "合作伙伴沟通、媒体内容",
-      "focus_en": "Partnership & media",
+      "name": "姜家康",
+      "role": "外联",
+      "role_en": "liaisons",
+      "focus": "数据收集统计",
+      "focus_en": "Scouting",
       "avatar": "/gallery/2025-09-brand-zhao.jpg"
     },
     {
-      "name": "郭隽",
-      "role": "创新 / CAD",
-      "role_en": "Innovation / CAD",
-      "focus": "快速原型、结构仿真",
-      "focus_en": "Rapid prototyping",
+      "name": "葛翊扬",
+      "role": "程序员",
+      "role_en": "programmer",
+      "focus": "团队网站制作",
+      "focus_en": "Team Website designing",
       "avatar": "/gallery/2025-09-cad-guo.jpg"
     }
   ],
   "mentors": [
     {
-      "name": "李卓",
-      "focus": "项目管理 / 工程日志",
-      "focus_en": "PM / Engineering notebook"
-    },
-    {
-      "name": "Sara Lee",
-      "focus": "评审答辩 / 英文沟通",
-      "focus_en": "Judging / English coaching"
+      "name": "傅悦铭",
+      "focus": "指导教师",
+      "focus_en": "Leader"
     }
   ]
 }
