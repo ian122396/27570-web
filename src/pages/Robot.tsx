@@ -5,7 +5,7 @@ import { hydrateLinks } from '../lib/links'
 
 const systemHighlights = [
   { title: { zh: '机械结构', en: 'Mechanical structure' }, metric: '2.4s cycle' },
-  { title: { zh: '自动路径', en: 'Autonomous paths' }, metric: '3 lines ready' },
+  { title: { zh: '自动路径', en: 'Autonomous period' }, metric: '3 lines ready' },
   { title: { zh: '视觉定位', en: 'Vision localization' }, metric: '±2cm error' },
 ]
 

@@ -59,35 +59,35 @@ const roadmap: Array<{
   description: Localized
 }> = [
   {
-    title: 'Prototype Sprint',
-    date: '2025-06',
-    description: {
-      zh: '验证抓取端执行器、建立测试清单。',
-      en: 'Validate intake actuators and compile the first QA checklist.',
-    },
-  },
-  {
-    title: 'Subsystem Freeze',
-    date: '2025-08',
-    description: {
-      zh: '锁定电控、算法接口并开始整机调参。',
-      en: 'Freeze electrical and software interfaces, begin full robot tuning.',
-    },
-  },
-  {
-    title: 'Scrimmage Loop',
+    title: 'Prototype',
     date: '2025-09',
     description: {
-      zh: '与友队合练，聚焦自动路径鲁棒性。',
-      en: 'Joint scrimmages with partner teams focused on autonomous paths.',
+      zh: '制作基础底盘，绘制shooting CAD模型。',
+      en: 'Making Chassis,designing shooting CAD.',
+    },
+  },
+  {
+    title: 'Test',
+    date: '2025-10',
+    description: {
+      zh: '制作shooting结构，整车调试',
+      en: 'Making shooting structure and debugging.',
+    },
+  },
+  {
+    title: 'Vision test',
+    date: '2025-10',
+    description: {
+      zh: 'April Tags识别与自动辅助瞄准调试',
+      en: 'April Tags recognization and auto aiming test.',
     },
   },
   {
     title: 'CNCHQ Prep Week',
     date: '2025-11',
     description: {
-      zh: '装车复盘、评审彩排、媒体素材联动。',
-      en: 'Pit rehearsals, judging dry runs, and media handoffs.',
+      zh: 'Driver训练，自动微调',
+      en: 'Driver training & autonomous test.',
     },
   },
 ]
